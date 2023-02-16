@@ -16,7 +16,7 @@ body {
 
 .deck {
     width: 345px;
-    margin: 0 auto;
+    /* margin: 0 auto; */
     background: #fffa62;
     padding: 16px;
     border-radius: 10px;
