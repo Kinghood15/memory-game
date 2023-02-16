@@ -29,7 +29,8 @@ var symbols = [
     rank3stars = gameCardsQTY + 2,
     rank2stars = gameCardsQTY + 6,
     rank1stars = gameCardsQTY + 10;
-
+console.log("window.innerWidth",window.innerWidth)
+console.log(window.outerWidth)
 // Shuffle function From http://stackoverflow.com/a/2450976
 function shuffle(array) {
     var currentIndex = array.length,
